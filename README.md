@@ -6,7 +6,7 @@ Um projeto simples de um site-currículo desenvolvido com HTML, CSS e JavaScript
 
 ## Demonstração
 
-- Site (GitHub Pages): [(https://guiguix7.github.io/Meu-Curriculo/)]
+- Site: https://guiguix7.github.io/Meu-Curriculo/
 
 ---
 
@@ -19,7 +19,7 @@ Um projeto simples de um site-currículo desenvolvido com HTML, CSS e JavaScript
 
 ---
 
-## Tecnologias
+## Tecnologias Usadas
 
 - HTML (≈ 47.7%)
 - CSS (≈ 45.6%)
@@ -29,9 +29,9 @@ Um projeto simples de um site-currículo desenvolvido com HTML, CSS e JavaScript
 
 ## Como executar localmente
 
-1. Abra a página: (https://guiguix7.github.io/Meu-Curriculo/)
+1. Abra a página: https://guiguix7.github.io/Meu-Curriculo/
 
-Ou
+     Ou
 
 1. Baixe a pasta do projeto
 2. Certifique-se que as pastas estão corretamente posicionadas
@@ -46,12 +46,15 @@ Ou
 Meu-Curriculo/
 ├─ index.html
 ├─ README.md
+|
 ├─  CSS/
 │    └─ styele.css/
+|
 ├─  ASSETS/
 │    ├─ IMG/
 |         └─ Foto-Perfil.jpeg/
 |         └─ icon-pagina.png/
+|
 ├─ SCRIPT/
      └─ script.js/
 
