@@ -43,7 +43,8 @@ Um projeto simples de um site-currículo desenvolvido com HTML, CSS e JavaScript
 
 
 ```
-Meu-Curriculo/
+Meu-Curriculo
+|
 ├─ index.html
 ├─ README.md
 |
@@ -72,6 +73,6 @@ Meu-Curriculo/
 - Guilherme Pereira Andraz
 - GitHub: [@guiguix7](https://github.com/guiguix7)
 - E-mail: guilherme.andraz@outlook.com
-- LinkedIn: (https://www.linkedin.com/in/guilherme-andraz)
+- LinkedIn: https://www.linkedin.com/in/guilherme-andraz
 
 ---
