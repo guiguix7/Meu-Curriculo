@@ -1,30 +1,74 @@
-# Projeto Currículo
+# Meu Currículo
 
-Site simples de currículo pessoal, estático e responsivo, com animações suaves e indicadores circulares de nível de habilidade.
+Um projeto simples de um site-currículo desenvolvido com HTML, CSS e JavaScript. Um site simples de currículo pessoal, estático e responsivo, com animações suaves e indicadores circulares de nível de habilidade.
 
 ---
 
-## Visão geral
-- Stack: HTML, CSS e JavaScript puro.
-- Design: responsivo, com foco em legibilidade.
-- Acessibilidade: focus-visible, prefers-reduced-motion.
-- Animações: efeito de expansão ao hover/foco em seções e animação de progresso nas habilidades.
+## Demonstração
+
+- Site (GitHub Pages): [(https://guiguix7.github.io/Meu-Curriculo/)]
+
+---
+
+## Recursos
+
+- Layout responsivo.
+- Seções para resumo, experiência, habilidades, projetos e contato.
+- Links rápidos para redes sociais e e-mail.
+- Estrutura simples para fácil personalização.
+
+---
+
+## Tecnologias
+
+- HTML (≈ 47.7%)
+- CSS (≈ 45.6%)
+- JavaScript (≈ 6.7%)
+
+---
+
+## Como executar localmente
+
+1. Abra a página: (https://guiguix7.github.io/Meu-Curriculo/)
+
+Ou
+
+1. Baixe a pasta do projeto
+2. Certifique-se que as pastas estão corretamente posicionadas
+3. Abra o arquivo `index.html` no navegador.
 
 ---
 
 ## Estrutura
-- index.html
-- CSS/style.css
-- SCRIPT/script.js
-- ASSETS/IMG/ (imagens, ícones)
+
+
+```
+Meu-Curriculo/
+├─ index.html
+├─ README.md
+├─  CSS/
+│    └─ styele.css/
+├─  ASSETS/
+│    ├─ IMG/
+|         └─ Foto-Perfil.jpeg/
+|         └─ icon-pagina.png/
+├─ SCRIPT/
+     └─ script.js/
+
+```
+
+- index.html: Página principal do currículo.
+- CSS/style.css: Estilo.
+- SCRIPT/script.js: Automatização da página.
+- ASSETS/IMG: imagens do projeto
 
 ---
 
-## Como executar (Windows)
-- Método rápido: abra o arquivo index.html no navegador.
-- Certifique que as pastas estão no lugar correto
+## Autor
+
+- Guilherme Pereira Andraz
+- GitHub: [@guiguix7](https://github.com/guiguix7)
+- E-mail: guilherme.andraz@outlook.com
+- LinkedIn: (https://www.linkedin.com/in/guilherme-andraz)
 
 ---
-
-## Créditos
-- Autor: Guilherme Pereira Andraz
